@@ -1,0 +1,7 @@
+name: ESD-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - IPython.display
